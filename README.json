@@ -259,7 +259,7 @@
             "last_commit": "2026-08-13T03:43:40Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 117935
+            "stars": 118024
           }
         },
         {
@@ -270,10 +270,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T17:55:08Z",
+            "last_commit": "2026-08-18T16:07:36Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75290
+            "stars": 75324
           }
         },
         {
@@ -287,7 +287,7 @@
             "last_commit": "2026-08-14T20:50:15Z",
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 51708
+            "stars": 51793
           }
         }
       ],
@@ -300,7 +300,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:14:44.455Z",
+    "last_updated": "2026-08-18T18:04:28.722Z",
     "original_repository": "caramaschiHG/awesome-ai-agents-2026",
     "original_repository_sha": "781b695139b8dfa231c0db5fd9cba02ccd518e84",
     "enhanced_repository": "enhansome/enhansome-ai-agents-2026",
