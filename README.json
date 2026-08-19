@@ -1,307 +1,68 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "🖥 Coding Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "IDE-Native Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Terminal and CLI Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Autonomous Software Engineers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Code Review and Security"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "App Builders (Prompt-to-App)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧱 Agent Frameworks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "General Purpose"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multi-Agent Orchestration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lightweight / Minimalist"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Agent Templates"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🌐 Browser and Desktop Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Consumer Products"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Developer Infrastructure"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🎙 Voice Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Platforms and APIs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Open-Source Voice"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🎨 Creative AI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Image Generation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Video Generation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Music and Audio"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D and Design"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⚡ Task and Workflow Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Automation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "No-Code Agent Builders"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "💼 Customer Support and CRM Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Support Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AI-Powered CRMs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sales and Outreach Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📊 Data and Research Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deep Research"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data Analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "RAG and Knowledge Bases"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏠 Local and Self-Hosted AI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Local LLM Runners"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Self-Hosted Agents and UIs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🤖 Multi-Agent Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📡 Protocols and Standards"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Protocol Tooling"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔍 Observability and Evaluation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Context Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tracing and Monitoring"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧠 Open-Source Models for Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🛡 AI Safety and Guardrails"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⚖️ AI Governance and Compliance"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔐 Cybersecurity Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏥 Healthcare and Therapy Agents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📚 Learning Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Microsoft GenAI for Beginners",
-          "description": "21-lesson course",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T03:43:40Z",
-            "owner": "microsoft",
-            "repo": "generative-ai-for-beginners",
-            "stars": 118024
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI Cookbook",
-          "description": "Practical API guides",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T16:07:36Z",
-            "owner": "openai",
-            "repo": "openai-cookbook",
-            "stars": 75324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anthropic Cookbook",
-          "description": "Claude agent recipes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T20:50:15Z",
-            "owner": "anthropics",
-            "repo": "claude-cookbooks",
-            "stars": 51793
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microsoft GenAI for Beginners",
+              "description": "21-lesson course",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655806940,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-13T03:43:40Z",
+                "owner": "microsoft",
+                "repo": "generative-ai-for-beginners",
+                "stars": 118078
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI Cookbook",
+              "description": "Practical API guides",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468576060,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T09:58:29Z",
+                "owner": "openai",
+                "repo": "openai-cookbook",
+                "stars": 75349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anthropic Cookbook",
+              "description": "Claude agent recipes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678973052,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-14T20:50:15Z",
+                "owner": "anthropics",
+                "repo": "claude-cookbooks",
+                "stars": 51841
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Courses and Tutorials"
         }
       ],
-      "title": "Courses and Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📰 Newsletters and Communities"
+      "title": "📚 Learning Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:04:28.722Z",
+    "last_updated": "2026-08-19T12:16:28.021Z",
     "original_repository": "caramaschiHG/awesome-ai-agents-2026",
+    "original_repository_id": 1175263852,
     "original_repository_sha": "781b695139b8dfa231c0db5fd9cba02ccd518e84",
     "enhanced_repository": "enhansome/enhansome-ai-agents-2026",
     "enhanced_repository_description": null,
